@@ -4,3 +4,5 @@
 #### Markdown
 ##### Markdown allows me to write
 ###### a description of my code
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
